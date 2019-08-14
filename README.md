@@ -7,9 +7,6 @@ In my Summer 2019 internship at Google, I worked on building out the UI for Fami
 <p align="center">
 <img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/sort.gif" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/seg.gif" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-![sorting](https://github.com/rdchoe/iOS-Portfolio/blob/master/sort.gif)
-![segment](https://github.com/rdchoe/iOS-Portfolio/blob/master/seg.gif)
-
 
 # Volvo Group - Volvo Predictive Maintenance Prototype App
 In my Summer 2018 internship at Volvo group, I worked on building out an IoT (Internet of Things) solution on the shop floor. This project consisted of creating and setting up vibration sensors on critical motors and sending the data to a cloud platform. As an extension of the project, I created a protoype app to display analytics and vibration data from the cloud platform the data was being sent to. 
