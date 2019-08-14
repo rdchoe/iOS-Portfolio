@@ -7,6 +7,7 @@ In my Summer 2019 internship at Google, I worked on building out the UI for Fami
 <p align="cneter">
   <h1>Sort</h1>
    <h1>Segment</h1>
+</p>
 <p align="center">
 <img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/sort.gif" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/seg.gif" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
