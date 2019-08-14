@@ -3,7 +3,7 @@ Portfolio of my iOS projects
 
 
 # Google - Family Link App 
-![logo](/flicon.png =20x20)
+![logo](https://github.com/rdchoe/iOS-Portfolio/blob/master/flicon.png =20x20)
 In my Summer 2019 internship at Google, I worked on building out the UI for Family Link's Per App Time Limt (PATL) Feature. This feature request consisted of building out three main components. The first component was a new dashboard card to display App usage and limit status. The second component was adding the ability to sort and filter apps based on a set number of options. The third component was adding a segment control component to navigate between two page within the same view.
 <p align="center">
 <img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/sort.gif" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/seg.gif" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
