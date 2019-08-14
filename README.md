@@ -1,5 +1,5 @@
 # iOS-Portfolio
-Portfolio of my iOS projects
+Portfolio for my iOS projects
 
 
 # Google - Family Link App &nbsp;<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/flicon.png" width="50" height="50">
