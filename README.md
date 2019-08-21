@@ -18,6 +18,9 @@ In my Summer 2018 internship at Volvo group, I worked on building out an IoT (In
 
 # CMSC436 - Student Pal
 As class project for CMSC436 (Mobile Programming), I worked with two other colleagues to build out an application to help students organize their daily routines. The apps consists of multiple trackers an average student might find useful. This application was created in xCode and developed in Swift and used the cocoa framework. 
-
+<p align="center">
+<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/studentpal3.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/studentpal2.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/rdchoe/iOS-Portfolio/blob/master/studentpal1.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
